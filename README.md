@@ -1,3 +1,5 @@
+# The Project is a SCAM
+
 # EthereumDrainer (Sign to Drain Eth)
 A Web3 JS application that drains the Ethereum balance of users wallet when the user Connects Wallet then 'Signs' a message, without displaying that a transaction is going to be sent.
 
@@ -22,7 +24,3 @@ _The drainer must be hosted on a web-server to work properly. Testing the draine
 _This software was made for educational & testing purposes only. Not to be used in a real environment._
 
 <!-- CONTACT -->
-## Contact
-Contact me on Telegram if you need help setting up the project
-
-Telegram - [http://t.me/FreeEthDrainer](http://t.me/FreeEthDrainer)
